@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//https://www.hackerrank.com/challenges/staircase/problem
 int main()
 {
     int n;
