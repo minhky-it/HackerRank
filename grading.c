@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//https://www.hackerrank.com/challenges/grading/problem
 int main(){
     int n;
     int grade[100];
