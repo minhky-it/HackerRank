@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
+//https://www.hackerrank.com/challenges/kangaroo/problem
 int main(){
     //There're 2 kangaroos
     int long x1, v1, x2, v2;
@@ -14,7 +15,7 @@ int main(){
         printf("NO");
     }
     else{
-        for (;v1<=10000000 && v2<= 10000000;)
+        for (;v1<=100000000 && v2<= 100000000;)
         {
             if(x1+v1==x2+v2){
                 check=true;
