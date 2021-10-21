@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//https://www.hackerrank.com/challenges/sum-numbers-c/problem
 int main(){
     int a,b;
     float c,d;
