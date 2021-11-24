@@ -19,7 +19,7 @@ int main(){
         arr[i] = n%2;
         n/=2;
         countElem
-        entofArrays+=1;
+        countElementofArrays+=1;
     }
     //Đảo mãng
     reverse(arr, countElementofArrays);

@@ -5,7 +5,7 @@ int main(){
     scanf("%d",&n);
     int Size = n*2 -1;
     int start = 0;
-    int end = Size -1;
+    int end = Size-1;
     int Arr[Size][Size];
     while(n!=0){
         for (int i = start; i <= end; i++)
