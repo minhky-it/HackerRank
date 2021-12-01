@@ -18,6 +18,7 @@ int main()
                
         }
         printf("\n");
+        printf("t");
         
     }
     
